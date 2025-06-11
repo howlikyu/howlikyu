@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">hey, i'm howler. <br>╭───── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿✦<br>- - 15+ years of age.<br>- - happily taken!<br>- - icewing sys<br><br><i>please note that, while i'm c+h friendly and don't mind getting whispers, i may be distant early in the morning and late at night. i'm also offtab more often than not, so whisp to interact at all times!</i></p>
+<p align="center">hey, i'm howler. <br>╭───── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿✦<br>- - 15+ years of age.<br>- - figuring things out on the daily<br>- - icewing sys<br><br><i>please note that, while i'm c+h friendly and don't mind getting whispers, i may be distant early in the morning and late at night. i'm also offtab more often than not, so whisp to interact at all times!</i></p>
 
 ###
 
