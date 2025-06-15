@@ -1,18 +1,4 @@
 <div align="center">
-  <a href="https://discord.gg/4D7qnBeG" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@hEaRsE_sOng" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/a.twisted.luxury?igsh=MWI0OHMxdWJrZ2pybA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="214" src="https://i.pinimg.com/736x/d5/4d/06/d54d0615419391c5806960eebd228908.jpg"  />
 </div>
 
@@ -22,20 +8,28 @@
 
 ###
 
-<p align="center">hey, i'm howler. <br>╭───── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿✦<br>- - 15+ years of age.<br>- - figuring things out on the daily<br>- - icewing sys<br><br><i>please note that, while i'm c+h friendly and don't mind getting whispers, i may be distant early in the morning and late at night. i'm also offtab more often than not, so whisp to interact at all times!</i></p>
+<h4 align="center">hey, i'm howler. <br>╭───── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿✦<br>- - adhd core<br>- - ilovemybfguys</h4>
 
 ###
 
-<p align="center">**FANDOMS/COMMUNITIES**<br>furry community . .<br>lgbt(+) community . .<br>-dw . wof . fnaf . tmr . st . batim . hp . httyd . etc-</p>
+<br clear="both">
+
+<h6 align="center">shocked cats !! 🙀</h6>
 
 ###
 
-<p align="center">**do not interact if you're a proshipper, zoophile, pedophile, etc . .**<br>i respect all <i>legal</i> ships as long as they're appropriate.<br>drizzledberry ceo (fruitcake) . .<br>shellvision supporter . .<br>yippee!</p>
+<br clear="both">
+
+<h4 align="center">--------------------------------------<br>BASIC INFORMATION</h4>
+
+###
+
+<p align="center">**check out my strawpage for extra details!**<br>. . - dnc/dnref anything of mine pls!<br>. . - compliments r very welcome tho<br>. . - make sure you ask before cuddling if i'm not afk!<br>(uh yh not much else just check my straw, and if you want me to follow you back just ask! i usually try to keep my socials not supperrr well known but i'm trying to be a bit more social xx)</p>
 
 ###
 
 <div align="center">
-  <img height="214" src="https://i.pinimg.com/736x/10/08/2a/10082a4aa7b6fec937802844b9f8278f.jpg"  />
+  <img height="214" src="https://i.pinimg.com/736x/0f/3c/22/0f3c22540800565678aba13a67ce194a.jpg"  />
 </div>
 
 ###
