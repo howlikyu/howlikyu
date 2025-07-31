@@ -9,3 +9,4 @@
 <h4 align="center">hi, i'm howler! strawpage is a little outdated so that'll be remade soon, but make sure to still check it out so you don't miss anything important!</h4>
 
 ###
+<p align="center">none of the art used on this profile belongs to me.</p>
