@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">hi, i'm howler! make sure you check out my strawpage for any extra info! also if you want me to follow you back feel free to just ask, i really don't mindd</h4>
+<h4 align="center">hi, i'm howler! im like completely inactive right now so just ignore this acc it'll probably get deleted since i never use git</h4>
 
 ###
 <p align="center">none of the art used on this profile belongs to me.</p>
